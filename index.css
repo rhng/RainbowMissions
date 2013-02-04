@@ -1,0 +1,21 @@
+body {
+	background-image: -webkit-linear-gradient(top, #FCFCFC 0%, #C5D1CE 100%);
+}
+
+#container {
+	width: 75%;
+	margin: auto;
+}
+
+#logo {
+	float: left;
+}
+
+#accountlinks {
+	float: right;
+}
+
+#navigation {
+	clear: both;
+	text-align: center;
+}
