@@ -20,6 +20,19 @@ body {
 	font-family: Calibri, sans-serif;
 }
 
+h1, #sponsor-child {
+	text-align: center;
+}
+
+#container {
+	padding: 25px;
+	overflow: auto;
+}
+
+#sponsor-child img {
+	border-radius: 5px;
+}
+
 #logo h1 {
 	display: inline;
 	font-family: Calibri;
@@ -44,4 +57,18 @@ body {
 	text-align: center;
 	border-top: solid orange 2px;
 	border-bottom: solid orange 2px;
+	padding-bottom: 10px;
+}
+
+#navigation a {
+	padding: 10px;
+}
+
+#sponsor-child {
+	width: 30%;
+	margin: auto;
+	border-radius: 20px;
+	padding: 20px;
+	background-color: #C1CDCD;
+	float: right;
 }
